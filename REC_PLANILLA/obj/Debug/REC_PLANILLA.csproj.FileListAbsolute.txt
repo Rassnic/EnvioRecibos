@@ -1,0 +1,31 @@
+C:\Users\K. Tercero\Desktop\Envio Recibos Planilla\Envio planilla\REC_PLANILLA\REC_PLANILLA\bin\Debug\REC_PLANILLA.exe.config
+C:\Users\K. Tercero\Desktop\Envio Recibos Planilla\Envio planilla\REC_PLANILLA\REC_PLANILLA\bin\Debug\REC_PLANILLA.exe
+C:\Users\K. Tercero\Desktop\Envio Recibos Planilla\Envio planilla\REC_PLANILLA\REC_PLANILLA\bin\Debug\REC_PLANILLA.pdb
+C:\Users\K. Tercero\Desktop\Envio Recibos Planilla\Envio planilla\REC_PLANILLA\REC_PLANILLA\obj\Debug\REC_PLANILLA.csprojResolveAssemblyReference.cache
+C:\Users\K. Tercero\Desktop\Envio Recibos Planilla\Envio planilla\REC_PLANILLA\REC_PLANILLA\obj\Debug\REC_PLANILLA.frmInicio.resources
+C:\Users\K. Tercero\Desktop\Envio Recibos Planilla\Envio planilla\REC_PLANILLA\REC_PLANILLA\obj\Debug\REC_PLANILLA.Properties.Resources.resources
+C:\Users\K. Tercero\Desktop\Envio Recibos Planilla\Envio planilla\REC_PLANILLA\REC_PLANILLA\obj\Debug\REC_PLANILLA.csproj.GenerateResource.Cache
+C:\Users\K. Tercero\Desktop\Envio Recibos Planilla\Envio planilla\REC_PLANILLA\REC_PLANILLA\obj\Debug\REC_PLANILLA.exe
+C:\Users\K. Tercero\Desktop\Envio Recibos Planilla\Envio planilla\REC_PLANILLA\REC_PLANILLA\obj\Debug\REC_PLANILLA.pdb
+C:\Users\IT-Rudy\Desktop\Proyectos Visual Studio\Envio Recibos Planilla\Envio planilla\REC_PLANILLA\REC_PLANILLA\bin\Debug\REC_PLANILLA.exe.config
+C:\Users\IT-Rudy\Desktop\Proyectos Visual Studio\Envio Recibos Planilla\Envio planilla\REC_PLANILLA\REC_PLANILLA\obj\Debug\REC_PLANILLA.exe
+C:\Users\IT-Rudy\Desktop\Proyectos Visual Studio\Envio Recibos Planilla\Envio planilla\REC_PLANILLA\REC_PLANILLA\obj\Debug\REC_PLANILLA.pdb
+C:\Users\IT-Rudy\Desktop\Proyectos Visual Studio\Envio Recibos Planilla\Envio planilla\REC_PLANILLA\REC_PLANILLA\bin\Debug\REC_PLANILLA.exe
+C:\Users\IT-Rudy\Desktop\Proyectos Visual Studio\Envio Recibos Planilla\Envio planilla\REC_PLANILLA\REC_PLANILLA\bin\Debug\REC_PLANILLA.pdb
+C:\Users\IT-Rudy\Desktop\Proyectos Visual Studio\Envio Recibos Planilla\Envio planilla\REC_PLANILLA\REC_PLANILLA\obj\Debug\REC_PLANILLA.csprojResolveAssemblyReference.cache
+C:\Users\IT-Rudy\Desktop\Proyectos Visual Studio\Envio Recibos Planilla\Envio planilla\REC_PLANILLA\REC_PLANILLA\obj\Debug\REC_PLANILLA.frmInicio.resources
+C:\Users\IT-Rudy\Desktop\Proyectos Visual Studio\Envio Recibos Planilla\Envio planilla\REC_PLANILLA\REC_PLANILLA\obj\Debug\REC_PLANILLA.Properties.Resources.resources
+C:\Users\IT-Rudy\Desktop\Proyectos Visual Studio\Envio Recibos Planilla\Envio planilla\REC_PLANILLA\REC_PLANILLA\obj\Debug\REC_PLANILLA.csproj.GenerateResource.Cache
+C:\Users\IT-Rudy\Desktop\Proyectos Visual Studio\Envio Recibos Planilla\Envio planilla\REC_PLANILLA\REC_PLANILLA\obj\Debug\REC_PLANILLA.frmNuevoCorreo.resources
+C:\Users\IT-Rudy\Desktop\Proyectos Visual Studio\Envio Recibos Planilla\Envio planilla\REC_PLANILLA\REC_PLANILLA\obj\Debug\REC_PLANILLA.frmActualizar.resources
+C:\Users\IT-Rudy\Desktop\Desktop 2\Proyectos Visual Studio\Envio Recibos Planilla\Envio planilla\REC_PLANILLA\REC_PLANILLA\bin\Debug\REC_PLANILLA.exe.config
+C:\Users\IT-Rudy\Desktop\Desktop 2\Proyectos Visual Studio\Envio Recibos Planilla\Envio planilla\REC_PLANILLA\REC_PLANILLA\obj\Debug\REC_PLANILLA.exe
+C:\Users\IT-Rudy\Desktop\Desktop 2\Proyectos Visual Studio\Envio Recibos Planilla\Envio planilla\REC_PLANILLA\REC_PLANILLA\obj\Debug\REC_PLANILLA.pdb
+C:\Users\IT-Rudy\Desktop\Desktop 2\Proyectos Visual Studio\Envio Recibos Planilla\Envio planilla\REC_PLANILLA\REC_PLANILLA\bin\Debug\REC_PLANILLA.exe
+C:\Users\IT-Rudy\Desktop\Desktop 2\Proyectos Visual Studio\Envio Recibos Planilla\Envio planilla\REC_PLANILLA\REC_PLANILLA\bin\Debug\REC_PLANILLA.pdb
+C:\Users\IT-Rudy\Desktop\Desktop 2\Proyectos Visual Studio\Envio Recibos Planilla\Envio planilla\REC_PLANILLA\REC_PLANILLA\obj\Debug\REC_PLANILLA.csprojResolveAssemblyReference.cache
+C:\Users\IT-Rudy\Desktop\Desktop 2\Proyectos Visual Studio\Envio Recibos Planilla\Envio planilla\REC_PLANILLA\REC_PLANILLA\obj\Debug\REC_PLANILLA.frmActualizar.resources
+C:\Users\IT-Rudy\Desktop\Desktop 2\Proyectos Visual Studio\Envio Recibos Planilla\Envio planilla\REC_PLANILLA\REC_PLANILLA\obj\Debug\REC_PLANILLA.frmInicio.resources
+C:\Users\IT-Rudy\Desktop\Desktop 2\Proyectos Visual Studio\Envio Recibos Planilla\Envio planilla\REC_PLANILLA\REC_PLANILLA\obj\Debug\REC_PLANILLA.frmNuevoCorreo.resources
+C:\Users\IT-Rudy\Desktop\Desktop 2\Proyectos Visual Studio\Envio Recibos Planilla\Envio planilla\REC_PLANILLA\REC_PLANILLA\obj\Debug\REC_PLANILLA.Properties.Resources.resources
+C:\Users\IT-Rudy\Desktop\Desktop 2\Proyectos Visual Studio\Envio Recibos Planilla\Envio planilla\REC_PLANILLA\REC_PLANILLA\obj\Debug\REC_PLANILLA.csproj.GenerateResource.Cache
